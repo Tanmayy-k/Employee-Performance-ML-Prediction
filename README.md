@@ -9,18 +9,16 @@ This project uses machine learning (XGBoost) to predict employee productivity ba
 - GitHub (Version control)
 
 ## 📂 Contents
-- 📘 project.ipynb – Main ML notebook
+- 📘 Employee_Performance_Prediction.ipynb – Main ML notebook
 - 🧠 gwp.pkl – Saved XGBoost model
 - 📁 docs/ – 10 project documentation files
 - 📸 screenshots/ – Output screenshots
-- 🎥 video/ – (Optional) Demo video
+- 🎥 video/ – Demo video
 
-## 🚀 Try the App
-[Click here to launch Gradio Demo](https://your-gradio-link.gradio.live) *(Optional)*
+
 
 ## 🧠 Final Model
 XGBoost – R² = 0.83 | F1-Score = 0.86
 
-## 📜 License
-MIT License (if needed)
+
 
