@@ -9,13 +9,14 @@ This project uses machine learning (XGBoost) to predict employee productivity ba
 - GitHub (Version control)
 
 ## 📂 Contents
-- 📘 Employee_Performance_Prediction.ipynb – Main ML notebook
-- 🧠 gwp.pkl – Saved XGBoost model
+
 - 📁 1. Project Initialization and Planning Phase
 - 📁 2. Data Collection and Preprocessing Phase
 - 📁 3. Model Development Phase
 - 📁 4. Model Optimization and Tuning Phase
 - 📄 Project Report
+- 📘 Employee_Performance_Prediction.ipynb – Main ML notebook
+- 🧠 gwp.pkl – Saved XGBoost model
 - 📸 screenshots/ – Output screenshots
 - 🎥 video/ – Demo video
 
